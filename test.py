@@ -1,0 +1,1 @@
+test pygame.gfxdraw.aacircle(surface, x, y, r, color)
